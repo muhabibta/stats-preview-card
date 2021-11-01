@@ -57,3 +57,14 @@ p {
 .data div:hover:nth-child(n+1){
     transform: translateY(-10px) ;
 }
+footer{
+  font-size: 15px;
+  font-family: "Inter", sans-serif;
+  color: aliceblue;
+  position: absolute;
+  bottom: 0;
+}
+footer a{
+  text-decoration: none;
+  color: aqua;
+}
